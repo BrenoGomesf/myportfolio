@@ -27,8 +27,8 @@ export default function Resume() {
                                         </div>
                                     </div>
                                     <div className="col-lg-8"><div>As a software developer at this company, I contribute to scalable systems on the backend and frontend. Over time,
-                                        I received recognition and opportunities for growth, reflecting my commitment to technical excellence. I'm motivated
-                                        to continue delivering exceptional results and contribute to the company’s progress</div></div>
+                                        I received recognition and opportunities for growth, reflecting my commitment to technical excellence. I`m motivated
+                                        to continue delivering exceptional results and contribute to the company`s progress</div></div>
                                 </div>
                             </div>
                         </div>

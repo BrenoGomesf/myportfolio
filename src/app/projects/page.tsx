@@ -28,7 +28,7 @@ export default function Projects() {
                                             <a href="https://smartmiles.com.br/" style={{ textDecoration: 'none' }} >
                                                 <h2 className="fw-bolder curso-pointer text-black">Smart Miles</h2>
                                             </a>
-                                            <p>I spearheaded the development of a robust administrative website in Angular, playing a central role in the platform's ongoing evolution. In addition to contributing to the initial development, I led the creation and implementation of new features, ensuring an enhanced user experience aligned with ever-evolving needs.</p>
+                                            <p>I spearheaded the development of a robust administrative website in Angular, playing a central role in the platform`s ongoing evolution. In addition to contributing to the initial development, I led the creation and implementation of new features, ensuring an enhanced user experience aligned with ever-evolving needs.</p>
                                         </div>
                                         <img style={{ width: "15rem" }} className="img-fluid" src="https://smartmiles.com.br/assets/logo/LOGO%20SMART%20MILES_01-4fd598920d6662747001bc0758b3164280dab3a9e64eb0cd51ad00c50613a5b1.png" alt="..." />
                                     </div>
@@ -42,7 +42,7 @@ export default function Projects() {
             <section className="py-5 bg-gradient-primary-to-secondary text-white">
                 <div className="container px-5 my-5">
                     <div className="text-center">
-                        <h2 className="display-4 fw-bolder mb-4">Let's build something together</h2>
+                        <h2 className="display-4 fw-bolder mb-4">Let`s build something together</h2>
                         <a className="btn btn-outline-light btn-lg px-5 py-3 fs-6 fw-bolder" href="contact.html">Contact me</a>
                     </div>
                 </div>

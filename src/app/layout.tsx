@@ -31,7 +31,7 @@ export default function RootLayout({
         <link href="css/styles.css" rel="stylesheet" />
       </head>
       <body className={inter.className}>
-        <div className='d-flex flex-column h-100'>
+        <div className="d-flex flex-column h-100">
           <NavBar />
           {children}
           <Footer />
